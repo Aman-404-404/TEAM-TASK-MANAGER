@@ -6,7 +6,7 @@ A full-stack collaborative task management application built with **React**, **N
 
 ## 🚀 Live Demo
 
-> **URL:** `https://taskflow-production-bd82.up.railway.app` *(update after deployment)*
+> **URL:**(https://taskflow-production-bd82.up.railway.app)
 
 ---
 
