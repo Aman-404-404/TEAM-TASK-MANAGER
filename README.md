@@ -229,7 +229,7 @@ node backend/server.js
 
 ## 🎥 Demo Video
 
-> [Link to 2-5 minute Loom/YouTube demo]
+> (https://www.loom.com/share/c392e2c272654404b8457f96b76361a5)
 
 ---
 
